@@ -1,6 +1,5 @@
 Изменение, сделанное через GitHub
 
-
 # Git Practice: [Фамилия Имя]
 
 Учебный проект для закрепления Git, GitHub и VS Code: README.md, .gitignore,
